@@ -27,6 +27,4 @@ We evaluated the model's performance using precision, recall, and F1-score metri
 
 For detailed implementation, refer to the notebook [here](notebooks/Leukemia_Cell_Classification.ipynb).
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
