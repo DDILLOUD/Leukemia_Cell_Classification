@@ -1,0 +1,15 @@
+Blood Cancer Image Dataset
+This dataset contains single-cell images taken from peripheral blood smears of patients diagnosed with Acute Myeloid Leukemia (AML), a type of blood cancer.
+
+Description
+Dataset Source: Kaggle ( https://www.kaggle.com/datasets/akhiljethwa/blood-cancer-image-dataset )
+
+Citations:
+Matek, C., Schwarz, S., Marr, C., & Spiekermann, K. (2019). A Single-cell Morphological Dataset of Leukocytes from AML Patients and Non-malignant Controls [Data set]. The Cancer Imaging Archive. DOI
+Matek, C., Schwarz, S., Spiekermann, K. et al. Human-level recognition of blast cells in acute myeloid leukaemia with convolutional neural networks. Nat Mach Intell 1, 538–544 (2019). DOI
+Additional Information: Medanta - Common Types of Blood Cancer
+
+Usage
+1 - Download the dataset from the Kaggle dataset page.
+2 - Extract the dataset files into your project directory.
+3 - Use the dataset in your project for tasks such as training machine learning models for leukemia cell classification.
